@@ -1,0 +1,29 @@
+{
+  "name": "simple-memory-store",
+  "version": "1.0.1",
+  "description": "module providing a simple in memory storage solution for trainig",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memory",
+    "storage"
+  ],
+  "author": "Johannes Konert (https://github.com/jkonert)",
+  "homepage": "https://github.com/jkonert/in-memory-store",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jkonert/simple-memory-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkonert/simple-memory-store/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "store.js"
+  ],
+  "engines": {
+    "node": ">=6.4"
+  }
+}
